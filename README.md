@@ -3,8 +3,6 @@
 Flutter project - CSC422 Lecture 15 
 
 ## Push an existing repository from the command line
-git remote add origin https://github.com/essam-eliwa/lecture15.git
-git branch -M main
 git push -u origin main
 
 ## Getting Started
